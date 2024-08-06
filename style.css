@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+button{
+    padding: 18px 38px;
+    border-radius: 20px;
+    background-color: rgb(226, 43, 236);
+    font-size: 30px;
+}
+.bulbb{
+    margin: 200px;
+    text-align: center;
+}
